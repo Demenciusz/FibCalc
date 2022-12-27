@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY main.cpp /app
 
-ENTRYPOINT [ "cpp","/app/main.cpp"]
+ENTRYPOINT [ "cpp","main.cpp"]
