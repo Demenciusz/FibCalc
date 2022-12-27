@@ -1,7 +1,7 @@
 # FibCalc
 
 1. Aplikacja  
-   ![Wynik dzialania programu] (x1.png)
+   ![Wynik] (wynik0.png)
 
 2. Obraz
    Budowa obrazu
