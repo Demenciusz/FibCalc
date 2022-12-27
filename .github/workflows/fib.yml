@@ -48,11 +48,10 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v3
         with:
+          cache-from: type=registry,ref=docker.io/demenciusz/fibcalc:cache
+          cache-to: type=registry,ref=docker.io/demenciusz/fibcalc:cache,mode=max
+          platforms: linux/amd64,linux/arm64
           context: .
-          file: ./Dockerfile
-          platforms: linux/amd64, linux/arm64
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
-          cache-from: type=registry,ref=docker.io/demenciusz/fibcalc:cache
-          cache-to: type=registry,ref=docker.io/demenciusz/fibcalc:cache,mode=max
