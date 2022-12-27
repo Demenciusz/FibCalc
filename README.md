@@ -1,3 +1,3 @@
 # FibCalc
 
-![Wynik] (1.png)
+![Wynik dzialania programu] (png1.png)
