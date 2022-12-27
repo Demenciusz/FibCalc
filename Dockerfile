@@ -1,8 +1,7 @@
-FROM alpine
+FROM node:alpine
 
 WORKDIR /app
 
-COPY main.cpp /app
-RUN apk -U upgrade
+COPY main.js /app
 
-ENTRYPOINT [ "cpp","main.cpp"]
+ENTRYPOINT [ "node","/app/main.js"]
