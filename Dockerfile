@@ -1,4 +1,4 @@
-FROM cpp:alpine
+FROM alpine
 
 WORKDIR /app
 
