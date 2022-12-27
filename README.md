@@ -15,3 +15,5 @@ Uruchomienie kontenera
 ```
 docker run -i -a stdout -a stdin zad:v1
 ```
+
+![Wynik](wynik.png)
