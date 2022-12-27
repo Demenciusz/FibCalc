@@ -1,7 +1,7 @@
 # FibCalc
 
 1. Aplikacja  
-   ![Wynik] (wynik0.png)
+   ![Wynik działania aplikacji](zad.png)
 
 2. Obraz
    Budowa obrazu
@@ -16,4 +16,4 @@ Uruchomienie kontenera
 docker run -i -a stdout -a stdin zad:v1
 ```
 
-![Wynik](wynik.png)
+![Wynik uruchimienia](wynik.png)
