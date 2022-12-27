@@ -1,3 +1,4 @@
 # FibCalc
 
-![Wynik dzialania programu] (png1.png)
+1. Aplikacja  
+   ![Wynik dzialania programu] (x1.png)
