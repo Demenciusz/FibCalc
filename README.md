@@ -17,3 +17,7 @@ docker run -i -a stdout -a stdin zad:v1
 ```
 
 ![Wynik uruchimienia](wynik.png)
+
+4. GH
+
+![Wynik gh](ghlist.png)
