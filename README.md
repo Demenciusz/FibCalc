@@ -44,9 +44,9 @@ Wykonanie workflowów
 
 ![Wynik gh](ghlist.png)
 
-![Wykonanie](wyk.png)
-
 ![Wykonanie](work.png)
+
+![Wykonanie](wyk.png)
 
 ![Wykonanie](g0.png)
 
