@@ -38,7 +38,7 @@ Dzięki tej komendzie od razu wykonywana jest aplikacja
 
    ![Sec](sec.png)
 
-   Token został stworzony dla konta github w opcjach deweloperskich i nadano mu uprawnienia aby mógł wykonać akcje zawarte w fib.yml
+   Token został stworzony dla konta github w opcjach deweloperskich i nadano mu uprawnienia, aby mógł wykonać akcje zawarte w fib.yml
 
 4. GH
    Wynik komendy gh workflow list
