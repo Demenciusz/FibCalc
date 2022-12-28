@@ -48,8 +48,6 @@ Wykonanie workflowów
 
 ![Wykonanie](wyk.png)
 
-![Wykonanie](g0.png)
-
 ![Wykonanie](g1.png)
 
 ![Wykonanie](g2.png)
