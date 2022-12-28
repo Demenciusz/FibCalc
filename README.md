@@ -1,6 +1,7 @@
 # FibCalc
 
-1. Aplikacja  
+1. Aplikacja 
+ 
    Stworzono aplikację do wyznaczania n-tego elementu ciagu. Wyniki działąnia aplikacji są podane po wykonaniu już kroku drugiego.
 
    ![Funkcja js](fibfun.png)
@@ -8,6 +9,7 @@
    ![Wynik działania aplikacji](zad.png)
 
 2. Obraz
+
    Budowa obrazu
 
 ```
@@ -25,6 +27,7 @@ Dzięki tej komendzie od razu wykonywana jest aplikacja
 ![Wynik uruchimienia](wynik.png)
 
 3. fib.yml
+
    Stworzono fib.yml w .github/workflows, z akcjami github. Wraz ze stworzeniem tego pliku należało stworzyć tokeny aby umożliwić wykonianie wyszystkich akcji takich jak logowanie do dockerhuba, logowanie do ghcr, uzyskanie meta danych, dodanie tagów oraz ścieżki do przechowywanej pamięci podręcznej
 
    Użyte secrets wykorzystywane są w fib.yml
