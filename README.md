@@ -40,9 +40,9 @@ Dzięki tej komendzie od razu wykonywana jest aplikacja
 4. GH
    Wynik komendy gh workflow list
 
-![Wynik gh](ghlist.png)
-
 Wykonanie workflowów
+
+![Wynik gh](ghlist.png)
 
 ![Wykonanie](wyk.png)
 
